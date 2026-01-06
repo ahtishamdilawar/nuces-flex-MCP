@@ -18,7 +18,7 @@ def get_marks(semester_id: str) -> dict:
         - course_code, course_name, section
         - assessments (Assignment, Quiz, Sessional-I, etc.)
         - Each assessment has: number, weightage, obtained_marks, total_marks, average
-        - total absolutes can be calculated by adding the multiplication of weightages for different assessments and obtained marks for different assessments and dividing the obtained marks by the total marks
+        - total absolutes can be calculated by adding the Total  of weightages for different assessments 
     """
     try:
         session = ensure_logged_in()
