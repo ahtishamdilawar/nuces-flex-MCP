@@ -1,0 +1,14 @@
+.venv
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+logs/
+data/
+*.sqlite3
+*.log
+coverage
+htmlcov/
+.pytest_cache/
