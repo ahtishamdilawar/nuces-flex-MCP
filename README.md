@@ -1,4 +1,4 @@
-# FASTNUCES FLEX Student Portal MCP Server
+# FAST-NUCES FLEX Student Portal MCP Server
 
 An MCP (Model Context Protocol) server that connects AI assistants like **Claude Desktop** or **GitHub Copilot** directly to your NUCES FLEX Student Portal. Ask questions about your academic data in plain English.
 
