@@ -23,8 +23,8 @@ Once connected, just chat naturally:
 
 1. **Clone and install dependencies:**
    ```bash
-   git clone <repo-url>
-   cd FLEX
+   git clone https://github.com/ahtishamdilawar/nuces-flex-MCP.git
+   cd nuces-flex-MCP
    pip install -r requirements.txt
    ```
 
